@@ -31,7 +31,7 @@ This end-to-end data analytics and econometrics project analyzes over 100,000 re
 
 <p align="center">
   <img <img width="720" height="432" alt="Question 19 Plot" src="https://github.com/user-attachments/assets/aeea38a9-d68b-42e0-b8e5-adc07ec8a98c" />
-" alt="Log-Log Demand Curve">
+
   <br>
   <i>Figure 1: Log-Log Regression demonstrating the inverse relationship between price and sales volume.</i>
 </p>
@@ -39,7 +39,8 @@ This end-to-end data analytics and econometrics project analyzes over 100,000 re
 <br>
 
 <p align="center">
-  <img src="outputs/Question_29_Plot.png" alt="Demographic Distributions">
+  <img width="864" height="720" alt="Question 29 Plot" src="https://github.com/user-attachments/assets/691eaf1c-2f87-4930-be30-adf6cdb21c30" />
+
   <br>
   <i>Figure 2: Multi-grid histograms showing the variance in local demographics across different store zones.</i>
 </p>
