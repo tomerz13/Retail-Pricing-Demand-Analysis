@@ -29,8 +29,8 @@ This end-to-end data analytics and econometrics project analyzes over 100,000 re
 ## 5. Visual Insights
 *(Note: Visualizing demand curves and demographic distributions)*
 
-![Log-Log Demand Curve](outputs/Question_19_Plot.png)
+<img width="720" height="432" alt="Question 19 Plot" src="https://github.com/user-attachments/assets/22c7313a-5509-4c08-9597-e30215655ad0" />
 *Figure 1: Log-Log Regression demonstrating the inverse relationship between price and sales volume.*
 
-![Demographic Distributions](outputs/Question_29_Plot.png)
+<img width="864" height="720" alt="Question 29 Plot" src="https://github.com/user-attachments/assets/72658b9c-740d-4896-a489-f111f63c9943" />
 *Figure 2: Multi-grid histograms showing the variance in local demographics across different store zones.*
