@@ -45,6 +45,4 @@ This end-to-end data analytics and econometrics project analyzes over 100,000 re
   <i>Figure 2: Multi-grid histograms showing the variance in local demographics across different store zones.</i>
 </p>
 
-<img width="864" height="720" alt="Question 29 Plot" src="https://github.com/user-attachments/assets/72658b9c-740d-4896-a489-f111f63c9943" />
 
-*Figure 2: Multi-grid histograms showing the variance in local demographics across different store zones.*
