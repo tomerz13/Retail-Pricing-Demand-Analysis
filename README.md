@@ -12,6 +12,9 @@ This end-to-end data analytics and econometrics project analyzes over 100,000 re
 1. **Optimize Price Elasticity:** Measure exact demand elasticity to determine if products are price-sensitive (elastic) or price-insensitive (inelastic).
 2. **Demographic-Driven Pricing:** Identify how local factors (e.g., education, income, age) drive sales volume, allowing for localized, dynamic pricing strategies rather than a one-size-fits-all approach.
 
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/8de7708b-9c9c-4c6b-ade1-ee52418aa223" />
+
+
 ## 3. Methodology
 * **Data Processing (Python/Pandas):** Cleaned and merged multiple datasets (transactions, product metadata, store demographics). Filtered out outliers (e.g., prices > 3 standard deviations) and handled missing values to create a robust analytical dataset.
 * **Econometric Modeling (Statsmodels):** 
